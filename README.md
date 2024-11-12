@@ -16,19 +16,20 @@ To run, supply two arguments:\
 options:\
 "-bw" for black and white image\
 "-c" for colorful image
-## Tech Stack
-
-**Console app:** .NET Core 8
 
 
 ## Screenshots example
 
-Original image:\
+Example image:\
 ![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat.jpg)\
-Black and white ASCII image:\
+ASCII image in b&w:\
 ![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat_bw.png)\
 ASCII image in color:\
 ![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat_color.png)
+
+## Tech Stack
+
+**Console app:** .NET Core 8
 
 
 

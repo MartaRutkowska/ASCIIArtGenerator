@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ASCIIArtGenerator;
 
-Console.WriteLine("Hello, World!");
+var asciiArt = new AsciiArt("C:\\Users\\marta\\Downloads\\jazz.gif");
+asciiArt.Print(asciiArt.Generate());
 
-var asciiArt = AsciiGenerator.Generate("C:\\Users\\marta\\Downloads\\binturong.jpg");
-
-Console.WriteLine(asciiArt);
+var ColorExtension = new ColorExtension();
+ColorExtension.SetAsciiArt(asciiArt);
+ColorExtension.Print(ColorExtension.Generate());

@@ -28,7 +28,7 @@ Original image:\
 Black and white ASCII image:\
 ![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat_bw.png)\
 ASCII image in color:\
-![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat_color.png)\
+![App Screenshot](https://github.com/MartaRutkowska/ASCIIArtGenerator/blob/master/cat_color.png)
 
 
 

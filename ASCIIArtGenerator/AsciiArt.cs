@@ -22,7 +22,7 @@ namespace ASCIIArtGenerator
             }
             catch
             {
-                Console.WriteLine("There was an error loading the image");
+                Console.WriteLine(Helpers.ErrorFilePath);
             }
         }
 

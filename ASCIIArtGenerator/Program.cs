@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ASCIIArtGenerator;
+using ASCIIArtGenerator.Decorators;
 
 var asciiArt = new AsciiArt("C:\\Users\\marta\\Downloads\\jazz.gif");
 asciiArt.Print(asciiArt.Generate());

@@ -1,4 +1,4 @@
-﻿namespace ASCIIArtGenerator
+﻿namespace ASCIIArtGenerator.Common
 {
     internal static class Helpers
     {

@@ -1,4 +1,6 @@
-﻿namespace ASCIIArtGenerator
+﻿using ASCIIArtGenerator.Common;
+
+namespace ASCIIArtGenerator.Decorators
 {
     internal class ColorExtension : AsciiArtDecorator
     {

@@ -2,7 +2,7 @@
 using SixLabors.ImageSharp.PixelFormats;
 using System.Text;
 
-namespace ASCIIArtGenerator
+namespace ASCIIArtGenerator.Decorators
 {
     internal abstract class AsciiArtDecorator : IAsciiArt
     {
